@@ -1,2 +1,2 @@
 # algos
-Algoritms implemented in C++
+Algorithms implemented in C++
